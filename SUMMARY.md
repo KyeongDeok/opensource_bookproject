@@ -8,4 +8,3 @@
 * [5. contemporary](5.md)
 * [6. future](6.md)
 * [7. FAQ](7.md)
-
