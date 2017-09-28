@@ -7,7 +7,7 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 또 재단의 인큐베이터 프로젝트는 재단 합류를 원하는 프로젝트에 진입로 역할을 한다.
 
 ### 2. 소프트웨어 프리덤 컨저번시(Software Freedom Conservancy)
- <img src="https://www.bro.org/images/sfc_logo.png" width="300" height="500"></img>
+ <img src="https://www.bro.org/images/sfc_logo.png" width="200" height="700"></img>
 
 소프트웨어 프리덤 컨저번시는 그 규모와 인지도가 ASF에 못 미치지만 오픈소스 프로젝트의 '집' 역할을 하면서 서비스를 제공하고 있는 또 다른 소프트웨어 재단이다. 비지박스, 깃, 삼바, 와인 등 인지도가 높은 몇 개 프로젝트를 포함해 총 33개 프로젝트를 관장하고 있다.
 또 GPL 의무화에 목표를 둔 GPL 컴플라이언스 프로젝트를 추진하고 있다. 현재 VM웨어의 GPL 저작권 침해 소송에 필요한 재원을 제공하고 있기도 하다.
