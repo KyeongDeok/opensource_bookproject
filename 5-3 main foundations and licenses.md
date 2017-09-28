@@ -7,7 +7,7 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 또 재단의 인큐베이터 프로젝트는 재단 합류를 원하는 프로젝트에 진입로 역할을 한다.
 
 ### 2. 소프트웨어 프리덤 컨저번시(Software Freedom Conservancy)
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Software_Freedom_Conservancy_logo.svg/150px-Software_Freedom_Conservancy_logo.svg.png" width="600" height="500"></img>
+ <img src="https://www.bro.org/images/sfc_logo.png" width="300" height="500"></img>
 
 소프트웨어 프리덤 컨저번시는 그 규모와 인지도가 ASF에 못 미치지만 오픈소스 프로젝트의 '집' 역할을 하면서 서비스를 제공하고 있는 또 다른 소프트웨어 재단이다. 비지박스, 깃, 삼바, 와인 등 인지도가 높은 몇 개 프로젝트를 포함해 총 33개 프로젝트를 관장하고 있다.
 또 GPL 의무화에 목표를 둔 GPL 컴플라이언스 프로젝트를 추진하고 있다. 현재 VM웨어의 GPL 저작권 침해 소송에 필요한 재원을 제공하고 있기도 하다.
@@ -26,7 +26,7 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 구글과 IBM, 오라클, SAP 등 대형 기술 회사의 대표들이 이클립스 재단 이사회에 참여하고 있다.
 
 ### 5. 클라우드 파운드리 재단(Cloud Foundry Foundation)
- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/CloudFoundryCorp_vertical.svg/256px-CloudFoundryCorp_vertical.svg.png" width="700" height="400"></img>
+ <img src="https://www.cloudfoundry.org/wp-content/uploads/2017/01/CFF_Logo_vertical.png" width="700" height="400"></img>
 
 최근 몇 년 동안 클라우드가 중요해졌다. 이에 따라 클라우드 인프라를 일종의 '공공재'처럼 간주하는 시각이 증가하고 있다.
 클라우드 인프라 프로젝트를 추진하는 클라우드 파운드리 재단에는 EMC, HP, IBM, 인텔, SAP가 공동 참여하고 있다. 여러 시장에서 경쟁하고 있고, 수 많은 값진 지적 재산권을 보유한 회사들이다. 그럼에도 불구하고, 클라우드 파운드리 재단에서는 서로 긴밀히 협력하고 있다.
