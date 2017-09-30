@@ -15,7 +15,7 @@
 #### 독점소프트웨어 지지자들의 입장
 <br>
 
-<img src="http://www.emh.co.kr/images/bill_gates.jpg"></img>
+<img src="http://www.emh.co.kr/images/bill_gates.jpg"  width="400" height="400"></img>
 
 > 마이크로소프트 회장 빌게이츠
 
@@ -36,7 +36,7 @@
 
 #### 자유 소프트웨어 지지자들의 입장
 
-<img src="http://www.bloter.net/wp-content/uploads/2008/10/rms-bw.jpeg"></img>
+<img src="http://www.bloter.net/wp-content/uploads/2008/10/rms-bw.jpeg" width="400" height="400"></img>
 
 > 자유 소프트웨어운동을 이끈 리차드 스톨만
 
