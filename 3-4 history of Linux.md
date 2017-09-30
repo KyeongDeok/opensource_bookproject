@@ -1,6 +1,8 @@
 리눅스의 역사
 =========
 
+
+<img src="http://cfile25.uf.tistory.com/image/2563D550578335732FB3ED" width="700" height="400"></img>
 초기
 ---
 
