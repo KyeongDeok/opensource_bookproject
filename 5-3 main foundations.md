@@ -55,18 +55,3 @@ OIS 발기인 중 한 명인 마이클 티먼은 ""무료 소프트웨어'에서
 현재 OSI는 오픈소스의 장점을 홍보 및 주창하는 활동을 펼치고 있다. 또 OSI 라이선스 검토와 승인 등 OSD를 관리하고 있다.
 
 
-
-
-
-### 출처
-http://www.ciokorea.com/
-
-https://olis.or.kr/
-### 이미지 출처
-http://www.itworld.co.kr/
-
-http://www.bloter.net/
-
-https://www.apache.org/
-
-https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EC%9E%90%EC%9C%A0_%EB%8B%A8%EC%B2%B4
