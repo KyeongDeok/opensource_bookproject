@@ -51,13 +51,3 @@
 
 
 
-### 출처
-http://www.ciokorea.com/
-
-https://olis.or.kr/
-### 이미지 출처
-http://www.itworld.co.kr/
-
-http://www.bloter.net/
-
-
