@@ -1,0 +1,16 @@
+1. 오픈소스의 역사
+====
+
+
+> #### 이번 장에서 살펴볼 내용은 오픈소스의 역사입니다.
+
+<hr>
+
+ 오픈소스 SW는 30년의 역사를 가지고 있습니다. 70년대 하드웨어의 부속 상품으로서의 소프웨어 부터 독점 소프트웨어 그리고 오픈소스의 탄생과 오늘날에 이르기까지 전반적인 역사를 함께 다룰 것입니다. 오픈소스SW 어떻게 탄생되었는지 알아보도록 합시다.
+
+<br> <br> <br>
+
+#### Revolution OS
+ - 15년전 오픈소스에 관한 내용을 다룬 영상 Revolution OS
+
+ [![Alt text](https://img.youtube.com/vi/4ZHloJVhcRY/0.jpg)](https://www.youtube.com/watch?v=4ZHloJVhcRY&t=0s)
