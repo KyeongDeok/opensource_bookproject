@@ -1,5 +1,4 @@
-1. 오픈소스의 역사
-====
+# 1. 오픈소스의 역사 
 
 
 > #### 이번 장에서 살펴볼 내용은 오픈소스의 역사입니다.
@@ -11,6 +10,7 @@
 <br> <br> <br>
 
 #### Revolution OS
- - 15년전 오픈소스에 관한 내용을 다룬 영상 Revolution OS
 
  [![Alt text](https://img.youtube.com/vi/4ZHloJVhcRY/0.jpg)](https://www.youtube.com/watch?v=4ZHloJVhcRY&t=0s)
+ 
+ > 15년전 오픈소스에 관한 내용을 다룬 영상 Revolution OS
