@@ -46,12 +46,15 @@
 - 김프(GIMP)
 - 오픈스택(OpenStack)
 
-<img src="http://img.etnews.com/photonews/1604/790551_20160408134157_039_0002.jpg" width="400" height="320" align: center></img>
+#### 국내 x86서버용 os 시장 점유율 추이
 
- < 국내 x86서버용 os 시장 점유율 추이, 출처: 한국IDC >
+<img src="http://img.etnews.com/photonews/1604/790551_20160408134157_039_0002.jpg" width="600" height="320" align: center></img>
 
+> 출처: 한국IDC
+
+#### 대표 오픈소스SW 리눅스
 <img src="https://www1-lw.xda-cdn.com/files/2016/08/linuxfoundation.png" width="500" height="320" align: center></img>
-
+> 출처: 리눅스 재단
 
  또한, 운영체제(OS) 시장에서 마이크로소프트(MS)의 독보적 위상이 흔들리고 있다. 기업 비용절감 이슈와 클라우드 환경이 확대되면서 '탈 MS' 현상이 지속된다. 2013년 MS 점유율은 62.2%를 기록했다. 지난해 52.8%로 10% 가까이 떨어졌다. 그 사이 레드햇이 주도하는 리눅스 영역은 MS를 추격했다. 2013년 37.6%에 불과했던 점유율은 지난해 47%까지 올랐다. 매출 역시 지난해 전년대비 40%나 상승했다. 서버 OS 시장에서 MS 입지가 좁아지는 이유는 오픈소스가 IT환경 깊숙이 자리 잡았기 때문이다. 리눅스는 대표적 오픈소스다.
 
