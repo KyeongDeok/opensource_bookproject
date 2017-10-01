@@ -2,14 +2,14 @@
 ====
 
 
-> 최근 뉴스와 기사를 통해서 오픈소스라는 단어를 쉽게 접할 수 있다. 애플은 자사의 언어인 스위프트(swift)를 오픈소스로 공개하겠다고 발표했으며, 현재 가장 관심이 뜨거운 앵귤러JS, tensorflow 등도 오픈소스로 공개 되었으며, 그외 다양한 오픈소스들이 등장하고 있다. 심지어 많은 기업에서도 오픈소스를 활용하여 프로젝트를 진행하고 있다. 이렇듯 날이 갈수록 오픈소스에 대한 관심이 뜨거워지고 있다. 그렇다면,
+> 최근 뉴스와 기사를 통해서 오픈소스라는 단어를 쉽게 접할 수 있다. 애플은 자사의 언어인 스위프트(swift)를 오픈소스로 공개하겠다고 발표했으며, 현재 가장 관심이 뜨거운 앵귤러JS, tensorflow 등도 오픈소스로 공개 되었으며, 그외 다양한 오픈소스들이 등장하고 있다. 심지어 많은 기업에서도 오픈소스를 활용하여 프로젝트를 진행하고 있다. 이렇듯 날이 갈수록 오픈소스에 대한 관심이 뜨거워지고 있다.
 
 
 <br>
 
 
 
-> ### *도대체 오픈소스가 무엇이길래 사람들은 이토록 열광하는 것일까?*
+> ##### *도대체 오픈소스가 무엇이길래 사람들은 이토록 열광하는 것일까?*
 
 
 
@@ -29,8 +29,11 @@
 <hr/>
  최근 오픈소스는 클라우드 컴퓨팅•빅데이터 등 혁신을 이끄는 기폭제가 되고 있다. 구글은 인공지능 플랫폼 텐서플로(tensorflow)를 오픈소스로 공개 하여 화제가 되기도 하였으며, 애플은 자사의 언어인 swift를 오픈소스로 공개하기로 발표하였다. 그 밖의 글로벌 IT 기업의 잇따른 동참으로 오늘날 IT 분야에서 빼놓고 얘기하기 어려울 만큼 영향력이 커지고 있다. 실제로 요즘 주위를 둘러보면 운영체제(Operating System)는 말할 것도 없고 웹·데이터베이스·그래픽·클라우드·컴퓨팅 등 실로 다양한 분야에서 다양하고 유용한 오픈소스를 쉽게 접할 수 있다. 대표적인 오픈소스 SW에는 다음 과 같은 SW가 있다.
 
+<p align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" width="100" height="100"></img> <img src="http://cfile25.uf.tistory.com/image/226738365290BB32315EC2" width="100" height="100"></img> <img src="https://planet.mysql.com/images/planet-logo.svg" width="100" height="100"></img> <img src="http://images.kbench.com:8080/korean/pdssshot/2015/11/7-Zip1_1447663723_1448266878.png" width="100" height="100"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" width="100" height="100"></img><img src="http://cfile25.uf.tistory.com/image/226738365290BB32315EC2" width="100" height="100"></img><img src="https://planet.mysql.com/images/planet-logo.svg" width="100" height="100"></img><img src="http://images.kbench.com:8080/korean/pdssshot/2015/11/7-Zip1_1447663723_1448266878.png" width="100" height="100"></img>
+
+</p>
 
 > 대표 오픈소스 SW (왼쪽부터 순서대로 우분투, 파이어 폭스, 마이SQL, 7집)
 
