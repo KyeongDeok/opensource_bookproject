@@ -28,6 +28,8 @@
 <hr/>
  최근 오픈소스는 클라우드 컴퓨팅•빅데이터 등 혁신을 이끄는 기폭제가 되고 있다. 구글은 인공지능 플랫폼 텐서플로(tensorflow)를 오픈소스로 공개 하여 화제가 되기도 하였으며, 애플은 자사의 언어인 swift를 오픈소스로 공개하기로 발표하였다. 그 밖의 글로벌 IT 기업의 잇따른 동참으로 오늘날 IT 분야에서 빼놓고 얘기하기 어려울 만큼 영향력이 커지고 있다. 실제로 요즘 주위를 둘러보면 운영체제(Operating System)는 말할 것도 없고 웹·데이터베이스·그래픽·클라우드·컴퓨팅 등 실로 다양한 분야에서 다양하고 유용한 오픈소스를 쉽게 접할 수 있다. 대표적인 오픈소스 SW에는 다음 과 같은 SW가 있다.
 
+<br>
+
 <p align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" width="100" height="100"></img><img src="http://cfile25.uf.tistory.com/image/226738365290BB32315EC2" width="100" height="100"></img><img src="https://planet.mysql.com/images/planet-logo.svg" width="100" height="100"></img><img src="http://images.kbench.com:8080/korean/pdssshot/2015/11/7-Zip1_1447663723_1448266878.png" width="100" height="100"></img>
@@ -35,6 +37,8 @@
 </p>
 
 > 대표 오픈소스 SW (왼쪽부터 순서대로 우분투, 파이어 폭스, 마이SQL, 7집)
+
+<br>
 
 - 우분투(Ubuntu)
 - 파이어폭스(Firefox)
@@ -44,6 +48,8 @@
 - 리브레오피스(LibreOffice)
 - 김프(GIMP)
 - 오픈스택(OpenStack)
+
+<br>
 
 #### 오픈소스 생태계의 확산
 
