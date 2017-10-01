@@ -31,11 +31,14 @@
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" width="100" height="100"></img>
+
 <img src="http://cfile25.uf.tistory.com/image/226738365290BB32315EC2" width="100" height="100"></img>
+
 <img src="https://planet.mysql.com/images/planet-logo.svg" width="100" height="100"></img>
+
 <img src="http://images.kbench.com:8080/korean/pdssshot/2015/11/7-Zip1_1447663723_1448266878.png" width="100" height="100"></img>
 
- < 대표 오픈소스 SW (왼쪽부터 순서대로 우분투, 파이어 폭스, 마이SQL, 7집) >
+> 대표 오픈소스 SW (왼쪽부터 순서대로 우분투, 파이어 폭스, 마이SQL, 7집)
 
 - 우분투(Ubuntu)
 - 파이어폭스(Firefox)
