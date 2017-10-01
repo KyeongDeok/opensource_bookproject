@@ -2,12 +2,13 @@
 
 
 #### 페이스북이 지원하는 프로젝트 10가지
-
+<hr>
 오랫동안 오픈소스 커뮤니티의 친구는 구글이었다. 이보다 큰 규모와 영향력을 가진 기업 중에 오픈소스에 우호적인 기업은 없었다. 하지만 지금 새로운 친구가 나타났다. 바로 페이스 북이다.  페이스북이 오픈소스의 세계를 점진적으로 지원하기 시작한 것이다. 카산드라부터 오픈 컴퓨트 프로젝트까지 페이스북이 지원한 오픈소스 프로젝트 10가지를 뽑아 보았다.
 
 <br>
 
-##### 1. 카산드라(Cassandra)
+#### 1. 카산드라(Cassandra)
+
 <p align="center">
 
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-2.jpg" width="700" height="400"></img>
@@ -18,7 +19,7 @@ NoSQL 분야에서 가장 큰 영향력을 행사하던 카산드라는 여전�
 
 <br>
 
-##### 2. 패브리케이터(Phabricator)
+#### 2. 패브리케이터(Phabricator)
 
 <p align="center">
 
@@ -30,7 +31,7 @@ NoSQL 분야에서 가장 큰 영향력을 행사하던 카산드라는 여전�
 
 <br>
 
-##### 3. 힙합-PHP(HipHop-PHP)
+#### 3. 힙합-PHP(HipHop-PHP)
 
 <p align="center">
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-4.jpg" width="700" height="400"></img>
@@ -41,7 +42,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 
 <br>
 
-##### 4. 프라이머(Primer)
+#### 4. 프라이머(Primer)
 <p align="center">
 
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-5.jpg" width="700" height="400"></img>
@@ -52,7 +53,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 
 <br>
 
-##### 5. XHP
+#### 5. XHP
 <p align="center">
 
 <img src="http://files.idg.co.kr/itworld/slide_020713-opensource-6.jpg" width="700" height="400"></img>
@@ -63,7 +64,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 
 <br>
 
-##### 6. 아파치 쓰리프트(Apache Thrift)
+#### 6. 아파치 쓰리프트(Apache Thrift)
 
 <p align="center">
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-7_0.jpg" width="400" height="700"></img>
@@ -73,7 +74,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 
 <br>
 
-##### 7. 코로나(Corona)
+#### 7. 코로나(Corona)
 
 <p align="center">
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-8_0.jpg" width="700" height="400"></img>
@@ -84,7 +85,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 
 <br>
 
-##### 8. 토네이도(Tornado)
+#### 8. 토네이도(Tornado)
 <p align="center">
 
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-9.jpg" width="700" height="400"></img>
@@ -95,7 +96,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 
 <br>
 
-##### 9. 아파치 하이브(Apache Hive)
+#### 9. 아파치 하이브(Apache Hive)
 <p align="center">
 
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-10_0.jpg" width="700" height="400"></img>
@@ -105,7 +106,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 
 <br>
 
-##### 10. 오픈 컴퓨트 프로젝트(Open Compute Project)
+#### 10. 오픈 컴퓨트 프로젝트(Open Compute Project)
 <p align="center">
 
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-11.jpg" width="700" height="400"></img>

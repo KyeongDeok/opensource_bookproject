@@ -2,7 +2,7 @@
 
 핵심 오픈소스 재단 8곳
 -----------------
-##### 1. 아파치 소프트웨어 재단(ASF: Apache Software Foundation)
+#### 1. 아파치 소프트웨어 재단(ASF: Apache Software Foundation)
 
 <p align="center">
 <img src="https://www.apache.org/img/asf_logo.png" width="700" height="400"></img>
@@ -13,7 +13,7 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 
 <br>
 
-##### 2. 소프트웨어 프리덤 컨저번시(Software Freedom Conservancy)
+#### 2. 소프트웨어 프리덤 컨저번시(Software Freedom Conservancy)
 
 <p align="center">
  <img src="https://www.bro.org/images/sfc_logo.png" width="700" height="200"></img>
@@ -24,7 +24,7 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 
 <br>
 
-##### 3. 리눅스 재단(Linux Foundation)
+#### 3. 리눅스 재단(Linux Foundation)
 <p align="center">
  <img src="http://www.bloter.net/wp-content/uploads/2016/10/TOP_OPEN_SOURCE_BY_STAR_2016_swift.png" width="700" height="400"></img>
 </p>
@@ -35,7 +35,7 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 
 <br>
 
-##### 4. 이클립스 재단(Eclipse Foundation)
+#### 4. 이클립스 재단(Eclipse Foundation)
 <p align="center">
  <img src="https://www.linuxfoundation.org/wp-content/uploads/2017/06/logo_lf.png" width="700" height="400"></img>
 </p>
@@ -45,7 +45,7 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 
 <br>
 
-##### 5. 클라우드 파운드리 재단(Cloud Foundry Foundation)
+#### 5. 클라우드 파운드리 재단(Cloud Foundry Foundation)
 <p align="center">
  <img src="https://www.cloudfoundry.org/wp-content/uploads/2017/01/CFF_Logo_vertical.png" width="700" height="400"></img>
 </p>
@@ -55,7 +55,7 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 
 <br>
 
-##### 6. 오픈스택 재단(OpenStack Foundation)
+#### 6. 오픈스택 재단(OpenStack Foundation)
 
 <p align="center">
  <img src="https://i0.wp.com/www.rcrwireless.com/wp-content/uploads/2016/04/OpenStack-Logo-Sized-Right.png?resize=702%2C336&ssl=1" width="700" height="400"></img>
@@ -66,7 +66,7 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 
 <br>
 
-##### 7. 프리 소프트웨어 재단(Free Software Foundation)
+#### 7. 프리 소프트웨어 재단(Free Software Foundation)
 
 <p align="center">
  <img src="https://www.savenetneutrality.eu/images/logos/fsf.png" width="700" height="400"></img>
@@ -81,7 +81,7 @@ FSF는 한 가지 중요한 소프트웨어 프로젝트에 관여하고 있다.
 
 <br>
 
-##### 8. 오픈소스 이니셔티브(Open Source Initiative)
+#### 8. 오픈소스 이니셔티브(Open Source Initiative)
 
 <p align="center">
  <img src="https://www.softwareheritage.org/wp-content/uploads/2016/01/open-source-initiative-logo.png" width="400" height="600"></img>
