@@ -88,7 +88,7 @@ FSF는 한 가지 중요한 소프트웨어 프로젝트에 관여하고 있다.
 #### 8. 오픈소스 이니셔티브(Open Source Initiative)
 <hr>
 <p align="center">
- <img src="https://www.softwareheritage.org/wp-content/uploads/2016/01/open-source-initiative-logo.png" width="600" height="400"></img>
+ <img src="https://www.softwareheritage.org/wp-content/uploads/2016/01/open-source-initiative-logo.png" width="300" height="400"></img>
 </p>
 
 오픈소스 이니셔티브는 특정 프로젝트가 아닌 소프트웨어 '운동'을 지원한다는 점에서 FSF와 유사하다. 그러나 초점에 차이가 있다. FSF는 소프트웨어의 '자유', OSI는 '오픈소스 소프트웨어'에 초점을 맞추고 있다.

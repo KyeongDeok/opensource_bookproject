@@ -23,7 +23,7 @@ NoSQL 분야에서 가장 큰 영향력을 행사하던 카산드라는 여전�
 <hr>
 <p align="center">
 
-<img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-3_0.jpg" width="700" height="400"></img>
+<img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-3_0.jpg" width="500" height="300"></img>
 
 </p>
 
@@ -34,7 +34,7 @@ NoSQL 분야에서 가장 큰 영향력을 행사하던 카산드라는 여전�
 #### 3. 힙합-PHP(HipHop-PHP)
 <hr>
 <p align="center">
-<img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-4.jpg" width="700" height="400"></img>
+<img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-4.jpg" width="500" height="300"></img>
 </p>
 
 
@@ -46,7 +46,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 <hr>
 <p align="center">
 
-<img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-5.jpg" width="700" height="400"></img>
+<img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-5.jpg" width="400" height="300"></img>
 
 </p>
 
@@ -58,7 +58,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 <hr>
 <p align="center">
 
-<img src="https://images.techhive.com/images/idge/imported/imageapi/2014/06/25/23/slide_020713-opensource-6-100330858-gallery.idge.jpg" width="700" height="400"></img>
+<img src="https://images.techhive.com/images/idge/imported/imageapi/2014/06/25/23/slide_020713-opensource-6-100330858-gallery.idge.jpg" width="700" height="300"></img>
 
 </p>
 
