@@ -17,7 +17,7 @@
     * [3.1 래드햇과 마이크로소프트](3-1 os of Redhat, MS.md)
     * [3.2 페이스북](3-2 facebook.md)
     * [3.3 주요 재단들](3-3 main foundations.md)
-    * [3.4 오픈소스 라이선스](3-4 license.md)
+    * [3.4 오픈소스 라이선스](3-4 license .md)
     * [3.5 관심받는 오픈소스 프로젝트](3-5 os projects.md)    
 * [4. 오픈소스의 미래](4 future of opensource.md)
     * [4.1 예측되는 모습](4-1 expected future .md)
