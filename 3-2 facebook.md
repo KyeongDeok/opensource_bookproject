@@ -58,7 +58,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 <hr>
 <p align="center">
 
-<img src="http://files.idg.co.kr/itworld/slide_020713-opensource-6.jpg" width="700" height="400"></img>
+<img src="https://images.techhive.com/images/idge/imported/imageapi/2014/06/25/23/slide_020713-opensource-6-100330858-gallery.idge.jpg" width="700" height="400"></img>
 
 </p>
 

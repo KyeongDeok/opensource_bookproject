@@ -5,7 +5,7 @@
 #### 1. 아파치 소프트웨어 재단(ASF: Apache Software Foundation)
 <hr>
 <p align="center">
-<img src="https://www.apache.org/img/asf_logo.png" width="700" height="400"></img>
+<img src="https://www.apache.org/img/asf_logo.png" width="400" height="200"></img>
 </p>
 
 Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있는 웹 서버 소프트웨어인 아파치 HTTP 서버, 빅 데이터 분석 플랫폼인 아파치 하둡, 자바 애플리케이션 서버인 아파치 톰캣Apache Tomcat 등 350여 오픈소스 프로젝트를 관장하며, 지원 조직과 법, 재무 지원을 제공한다. 그리고 아파치 라이선스로 소프트웨어를 배포하고 있다.
@@ -16,7 +16,7 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 #### 2. 소프트웨어 프리덤 컨저번시(Software Freedom Conservancy)
 <hr>
 <p align="center">
- <img src="https://www.bro.org/images/sfc_logo.png" width="700" height="200"></img>
+ <img src="https://www.bro.org/images/sfc_logo.png" width="400" height="200"></img>
 </p>
 
 소프트웨어 프리덤 컨저번시는 그 규모와 인지도가 ASF에 못 미치지만 오픈소스 프로젝트의 '집' 역할을 하면서 서비스를 제공하고 있는 또 다른 소프트웨어 재단이다. 비지박스, 깃, 삼바, 와인 등 인지도가 높은 몇 개 프로젝트를 포함해 총 33개 프로젝트를 관장하고 있다.
@@ -27,7 +27,7 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 #### 3. 리눅스 재단(Linux Foundation)
 <hr>
 <p align="center">
- <img src="http://www.bloter.net/wp-content/uploads/2016/10/TOP_OPEN_SOURCE_BY_STAR_2016_swift.png" width="700" height="400"></img>
+ <img src="http://www.bloter.net/wp-content/uploads/2016/10/TOP_OPEN_SOURCE_BY_STAR_2016_swift.png" width="500" height="300"></img>
 </p>
 
 리눅스 재단은 리눅스 커널을 후원한다. 리눅스 커널은 리눅스의 기반이다. 그리고 리눅스는 전부는 아닐지언정 아주 많은 오픈소스 소프트웨어의 토대다.
@@ -39,7 +39,7 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 #### 4. 이클립스 재단(Eclipse Foundation)
 <hr>
 <p align="center">
- <img src="https://www.linuxfoundation.org/wp-content/uploads/2017/06/logo_lf.png" width="700" height="400"></img>
+ <img src="https://www.linuxfoundation.org/wp-content/uploads/2017/06/logo_lf.png" width="400" height="200"></img>
 </p>
 
 2004년 설립된 이클립스 재단은 소프트웨어 개발, 배포, 관리용 소프트웨어를 개발하는 오픈소스 커뮤니티를 지원한다. 가장 잘 알려진 프로젝트는 이클립스 개발 환경이다. 이 밖에도 BI, 보고 툴, 사물인터넷 등 '성숙 단계'가 다른 200여 프로젝트를 지원하고 있다.
@@ -50,8 +50,9 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 #### 5. 클라우드 파운드리 재단(Cloud Foundry Foundation)
 <hr>
 <p align="center">
- <img src="https://www.cloudfoundry.org/wp-content/uploads/2017/01/CFF_Logo_vertical.png" width="700" height="400"></img>
+ <img src="https://www.cloudfoundry.org/wp-content/uploads/2017/01/CFF_Logo_vertical.png" width="300" height="200"></img>
 </p>
+<br>
 
 최근 몇 년 동안 클라우드가 중요해졌다. 이에 따라 클라우드 인프라를 일종의 '공공재'처럼 간주하는 시각이 증가하고 있다.
 클라우드 인프라 프로젝트를 추진하는 클라우드 파운드리 재단에는 EMC, HP, IBM, 인텔, SAP가 공동 참여하고 있다. 여러 시장에서 경쟁하고 있고, 수 많은 값진 지적 재산권을 보유한 회사들이다. 그럼에도 불구하고, 클라우드 파운드리 재단에서는 서로 긴밀히 협력하고 있다.
@@ -61,7 +62,7 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 #### 6. 오픈스택 재단(OpenStack Foundation)
 <hr>
 <p align="center">
- <img src="https://i0.wp.com/www.rcrwireless.com/wp-content/uploads/2016/04/OpenStack-Logo-Sized-Right.png?resize=702%2C336&ssl=1" width="700" height="400"></img>
+ <img src="https://i0.wp.com/www.rcrwireless.com/wp-content/uploads/2016/04/OpenStack-Logo-Sized-Right.png?resize=702%2C336&ssl=1" width="400" height="200"></img>
 </p>
 
 오픈스택 재단은 위에서 소개한 다른 재단들과 달리 단 하나의 프로젝트만 추진하고 있다. 오픈스택 클라우드 운영 시스템 개발, 배포, 도입 프로젝트가 그것이다.
@@ -72,7 +73,7 @@ Apache Software Foundation은 전세계적으로 가장 많이 사용되고 있�
 #### 7. 프리 소프트웨어 재단(Free Software Foundation)
 <hr>
 <p align="center">
- <img src="https://www.savenetneutrality.eu/images/logos/fsf.png" width="700" height="400"></img>
+ <img src="https://www.savenetneutrality.eu/images/logos/fsf.png" width="400" height="300"></img>
 </p>
 
 프리 소프트웨어 재단은 중요한 오픈소스 소프트웨어 재단 가운데 하나이지만 차이점이 있다. 특정 프로젝트 대신 소프트웨어의 자유에 초점을 맞추고 있기 때문이다.
@@ -87,7 +88,7 @@ FSF는 한 가지 중요한 소프트웨어 프로젝트에 관여하고 있다.
 #### 8. 오픈소스 이니셔티브(Open Source Initiative)
 <hr>
 <p align="center">
- <img src="https://www.softwareheritage.org/wp-content/uploads/2016/01/open-source-initiative-logo.png" width="400" height="600"></img>
+ <img src="https://www.softwareheritage.org/wp-content/uploads/2016/01/open-source-initiative-logo.png" width="600" height="400"></img>
 </p>
 
 오픈소스 이니셔티브는 특정 프로젝트가 아닌 소프트웨어 '운동'을 지원한다는 점에서 FSF와 유사하다. 그러나 초점에 차이가 있다. FSF는 소프트웨어의 '자유', OSI는 '오픈소스 소프트웨어'에 초점을 맞추고 있다.
