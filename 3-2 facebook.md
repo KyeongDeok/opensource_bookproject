@@ -8,7 +8,7 @@
 <br>
 
 #### 1. 카산드라(Cassandra)
-
+<hr>
 <p align="center">
 
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-2.jpg" width="700" height="400"></img>
@@ -20,7 +20,7 @@ NoSQL 분야에서 가장 큰 영향력을 행사하던 카산드라는 여전�
 <br>
 
 #### 2. 패브리케이터(Phabricator)
-
+<hr>
 <p align="center">
 
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-3_0.jpg" width="700" height="400"></img>
@@ -32,7 +32,7 @@ NoSQL 분야에서 가장 큰 영향력을 행사하던 카산드라는 여전�
 <br>
 
 #### 3. 힙합-PHP(HipHop-PHP)
-
+<hr>
 <p align="center">
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-4.jpg" width="700" height="400"></img>
 </p>
@@ -43,6 +43,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 <br>
 
 #### 4. 프라이머(Primer)
+<hr>
 <p align="center">
 
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-5.jpg" width="700" height="400"></img>
@@ -54,6 +55,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 <br>
 
 #### 5. XHP
+<hr>
 <p align="center">
 
 <img src="http://files.idg.co.kr/itworld/slide_020713-opensource-6.jpg" width="700" height="400"></img>
@@ -65,7 +67,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 <br>
 
 #### 6. 아파치 쓰리프트(Apache Thrift)
-
+<hr>
 <p align="center">
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-7_0.jpg" width="400" height="700"></img>
 </p>
@@ -75,7 +77,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 <br>
 
 #### 7. 코로나(Corona)
-
+<hr>
 <p align="center">
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-8_0.jpg" width="700" height="400"></img>
 
@@ -86,6 +88,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 <br>
 
 #### 8. 토네이도(Tornado)
+<hr>
 <p align="center">
 
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-9.jpg" width="700" height="400"></img>
@@ -97,6 +100,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 <br>
 
 #### 9. 아파치 하이브(Apache Hive)
+<hr>
 <p align="center">
 
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-10_0.jpg" width="700" height="400"></img>
@@ -107,6 +111,7 @@ PHP는 오랫동안 인터넷의 공통어로 자리매김해 왔다. 하지만 
 <br>
 
 #### 10. 오픈 컴퓨트 프로젝트(Open Compute Project)
+<hr>
 <p align="center">
 
 <img src="http://files.idg.co.kr/itworld/slide_image_020713-opensource-11.jpg" width="700" height="400"></img>
