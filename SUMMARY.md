@@ -1,6 +1,6 @@
 # Summary
 
-* [표지](README.md)
+* [REVOLUTION OPENSOURCE](README.md)
 * [왜 오픈소스인가?](intro.md)
 * [1. 오픈소스의 역사](1.md)
     * [1.1 소프트웨어의 상품화와 독점](1-1.md)
