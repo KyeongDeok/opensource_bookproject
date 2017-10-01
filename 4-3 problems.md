@@ -1,7 +1,8 @@
 ## 4.3 해결해야할 과제들
+<p align="center">
 
 <img src="http://cfile6.uf.tistory.com/image/271D9C3C56E9C38A219155" width="700" height="400" ></img>
-
+</p>
 
 #### 1. 오픈소스의 가시성 확립
 
